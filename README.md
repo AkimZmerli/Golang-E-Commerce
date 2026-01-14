@@ -1,7 +1,5 @@
 # E-Commerce Platform
 
-A modern full-stack e-commerce application built with React Router (Remix), TypeScript, Tailwind CSS, Go, and PostgreSQL.
-
 ## Tech Stack
 
 ### Frontend
